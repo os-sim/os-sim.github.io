@@ -1,6 +1,7 @@
 body{
    background-color: azure;
    max-width: 100%;
+   overflow:visible;
 }
 .heading{
     text-align: center;
