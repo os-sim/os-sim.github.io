@@ -1,5 +1,7 @@
 body{
    background-color: azure;
+   max-width: 100%;
+   overflow-x: hidden;
 }
 .heading{
     text-align: center;
