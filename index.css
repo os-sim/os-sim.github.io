@@ -21,3 +21,7 @@ body{
 .ho:hover{
     background-color: aqua;
 }
+.row
+{
+   margin-right:5px;
+}
