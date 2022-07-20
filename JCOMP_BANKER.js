@@ -199,7 +199,7 @@ function createInputs(){
     availableDiv.classList.add('avail-con');
 
     var p = document.createElement('h4');
-    p.innerText='Availble Resources';
+    p.innerText='Available Resources';
     p.classList.add('text-primary');
     p.classList.add('text-center');
     p.classList.add('mt-4');
